@@ -2,7 +2,6 @@
 
 Простой демонстрационный сайт компании на HTML + CSS с небольшой SSR/pre-render сборкой на Node.js.
 
-Сайт собран по структуре референса `triada-llc.com`: hero-блок, описание компании, услуги, новости, контакты и footer. Цветовая схема и фотографии пока оставлены от референса.
 
 ## Структура
 
@@ -99,3 +98,25 @@ https://<username>.github.io/<repo>/
 ```
 
 Для обновления демо достаточно изменить файлы, сделать commit и push в `main`. GitHub Actions сам пересоберет и переопубликует сайт.
+
+### Если workflow падает на `Configure Pages`
+
+Если видишь ошибку вида:
+
+```text
+Get Pages site failed. Please verify that the repository has Pages enabled and configured to build using GitHub Actions
+```
+
+Проверь два пункта:
+
+1. В `Settings` → `Pages` выбери `Source: GitHub Actions`.
+2. В `Settings` → `Actions` → `General` → `Workflow permissions` включи `Read and write permissions`.
+
+В workflow уже указано:
+
+```yaml
+with:
+  enablement: true
+```
+
+Это позволяет `actions/configure-pages` создать или включить GitHub Pages site при первом деплое.

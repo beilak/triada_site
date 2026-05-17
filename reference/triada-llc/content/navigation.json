@@ -1,0 +1,59 @@
+{
+  "sourceUrl": "https://triada-llc.com/",
+  "languages": [
+    {
+      "code": "tr",
+      "label": "TR",
+      "url": "https://triada-llc.com/tr/"
+    },
+    {
+      "code": "en",
+      "label": "EN",
+      "url": "https://triada-llc.com/en/"
+    }
+  ],
+  "tr": [
+    {
+      "label": "ANA SAYFA",
+      "url": "https://triada-llc.com/"
+    },
+    {
+      "label": "ŞİRKET HAKKINDA",
+      "url": "https://triada-llc.com/hakkimizda/202-about-company.html"
+    },
+    {
+      "label": "HİZMETLERİMİZ",
+      "url": "https://triada-llc.com/hizmetlerimiz/"
+    },
+    {
+      "label": "MEDYA",
+      "url": "https://triada-llc.com/medya/"
+    },
+    {
+      "label": "İLETİŞİM",
+      "url": "https://triada-llc.com/contacts.html"
+    }
+  ],
+  "en": [
+    {
+      "label": "HOME",
+      "url": "https://triada-llc.com/en/"
+    },
+    {
+      "label": "ABOUT COMPANY",
+      "url": "https://triada-llc.com/about/240-about-company.html"
+    },
+    {
+      "label": "SERVICES",
+      "url": "https://triada-llc.com/services/"
+    },
+    {
+      "label": "NEWS",
+      "url": "https://triada-llc.com/news/"
+    },
+    {
+      "label": "CONTACT US",
+      "url": "https://triada-llc.com/contacts.html"
+    }
+  ]
+}

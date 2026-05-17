@@ -1,0 +1,101 @@
+{
+  "sourceSite": "https://triada-llc.com/",
+  "images": [
+    {
+      "id": "logo",
+      "file": "../assets/images/logo.png",
+      "sourceUrl": "https://triada-llc.com/mif_studio_com_cms/wp-content/themes/constro/images/logo.png",
+      "dimensions": "800x210"
+    },
+    {
+      "id": "footer-logo",
+      "file": "../assets/images/footer_logo.png",
+      "sourceUrl": "https://triada-llc.com/mif_studio_com_cms/wp-content/themes/constro/images/footer_logo.png",
+      "dimensions": "799x181"
+    },
+    {
+      "id": "footer-pattern",
+      "file": "../assets/images/footer-pattern.jpg",
+      "sourceUrl": "https://triada-llc.com/mif_studio_com_cms/wp-content/themes/constro/images/footer-pattern.jpg",
+      "dimensions": "1920x687"
+    },
+    {
+      "id": "default-header-background",
+      "file": "../assets/images/default-header-background.jpg",
+      "sourceUrl": "https://triada-llc.com/mif_studio_com_cms/wp-content/themes/constro/images/default-header-backgroud.jpg",
+      "dimensions": "1343x199"
+    },
+    {
+      "id": "hero-machines-equipment",
+      "file": "../assets/images/hero-machines-equipment.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708289361_mak.jpg",
+      "dimensions": "1980x785"
+    },
+    {
+      "id": "hero-bearing",
+      "file": "../assets/images/hero-bearing.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708288713_rulman_sl.jpg",
+      "dimensions": "1980x785"
+    },
+    {
+      "id": "hero-conveyor-belts",
+      "file": "../assets/images/hero-conveyor-belts.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708289276_konf.jpg",
+      "dimensions": "1980x785"
+    },
+    {
+      "id": "hero-glass-ceramic",
+      "file": "../assets/images/hero-glass-ceramic.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708289020_seram_.jpg",
+      "dimensions": "1980x785"
+    },
+    {
+      "id": "about",
+      "file": "../assets/images/about-page.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708284614_1627941076_about.jpg",
+      "dimensions": "1001x860"
+    },
+    {
+      "id": "service-mill-stones",
+      "file": "../assets/images/service-mill-stones.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708287842_degirmen.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-sandpaper",
+      "file": "../assets/images/service-sandpaper.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708286757_zimpaa.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-abrasion",
+      "file": "../assets/images/service-abrasion.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708286569_asindirma.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-conveyor-belts",
+      "file": "../assets/images/service-conveyor-belts.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708286403_bant.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-ceramics",
+      "file": "../assets/images/service-ceramics.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708286275_cam.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-machines-equipment",
+      "file": "../assets/images/service-machines-equipment.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708285660_makine.jpg",
+      "dimensions": "346x799"
+    },
+    {
+      "id": "service-bearing",
+      "file": "../assets/images/service-bearing.jpg",
+      "sourceUrl": "https://triada-llc.com/uploads/posts/2024-02/1708285462_1628023230_meat.jpg",
+      "dimensions": "346x799"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "sourceUrls": {
+    "enIndex": "https://triada-llc.com/news/",
+    "trIndex": "https://triada-llc.com/medya/",
+    "enRss": "https://triada-llc.com/news/rss.xml",
+    "trRss": "https://triada-llc.com/medya/rss.xml"
+  },
+  "items": [
+    {
+      "id": "conveyor-belts-bearings",
+      "dateEn": "2024-02-20",
+      "dateTr": "2024-02-19",
+      "titleEn": "We are innovators in the Field of Conveyor Belts and Bearings",
+      "titleTr": "Konveyör Bantları ve Rulmanlar Alanında yenilikçiyiz",
+      "image": "../assets/images/news-conveyor-belts-bearings.jpg",
+      "thumb": "../assets/images/news-conveyor-belts-bearings-thumb.jpg",
+      "sourceUrlEn": "https://triada-llc.com/news/254-we-are-innovators-in-the-field-of-conveyor-belts-and-bearings.html",
+      "sourceUrlTr": "https://triada-llc.com/medya/239-konveyor-bantlar-ve-rulmanlar-alannda-yenilikciyiz.html",
+      "bodyEn": "TRIADA LLC is starting a new era in the field of conveyor belts and bearings in the wholesale trade of parts and components related to machinery and equipment. The company, which stands out in the sector with its innovative approaches and quality products, offers more reliable and durable solutions to its customers. Robust and long-lasting belts for conveyor systems and bearings, which are essential parts of machines, now take their place in the sector with the assurance of our Company.",
+      "bodyTr": "TRIADA DIŞ TİCARET LİMİTED ŞİRKETİ, makine ve ekipmanlarla ilgili aksam ve parçaların toptan ticaretinde konveyör bantları ve rulmanlar alanında yeni bir dönem başlatıyor. Yenilikçi yaklaşımları ve kaliteli ürünleriyle sektörde öne çıkan şirket, müşterilerine daha güvenilir ve dayanıklı çözümler sunuyor. Konveyör sistemleri için sağlam ve uzun ömürlü bantlar ile makinelerin temel parçalarından olan rulmanlar, artık Şirketimiz güvencesiyle sektördeki yerini alıyor."
+    },
+    {
+      "id": "millstone-emery-high-demands",
+      "dateEn": "2024-02-20",
+      "dateTr": "2024-02-19",
+      "titleEn": "Our company, specialized in millstone and emery products, is ready for high demands.",
+      "titleTr": "Değirmentaşı ve Zımpara Ürünlerinde Uzmanlaşmış şirketimiz yüksek Taleplere Hazır",
+      "image": "../assets/images/news-millstone-emery.jpg",
+      "thumb": "../assets/images/news-millstone-emery-thumb.jpg",
+      "sourceUrlEn": "https://triada-llc.com/news/253-our-company-specialized-in-millstone-and-emery-products-is-ready-for-high-demands.html",
+      "sourceUrlTr": "https://triada-llc.com/medya/238-deirmenta-ve-zmpara-urunlerinde-uzmanlam-irketimiz-yuksek-taleplere-hazr.html",
+      "bodyEn": "Our company specializes in wholesale trade of critical parts such as millstones and emery, offering a wide range of products to meet industrial needs. Our company, which draws attention with its quality products, aims to provide reliable solutions to its customers by keeping customer satisfaction at the forefront.",
+      "bodyTr": "Değirmentaşı ve zımpara gibi kritik parçaların toptan ticaretinde uzmanlaşmış olan şirketimiz, endüstriyel ihtiyaçları karşılamak için geniş bir ürün yelpazesi sunuyor. Kaliteli ürünleriyle dikkat çeken şirketimiz, müşteri memnuniyetini ön planda tutarak müşterilerine güvenilir çözümler sunmayı hedefliyor."
+    },
+    {
+      "id": "glass-ceramic-technical-use",
+      "dateEn": "2024-02-20",
+      "dateTr": "2024-02-19",
+      "titleEn": "Difference in Glass and Ceramic Products for Technical Use",
+      "titleTr": "Teknik Kullanım İçin Cam ve Seramik Ürünlerde farklılık",
+      "image": "../assets/images/news-glass-ceramic.jpg",
+      "thumb": "../assets/images/news-glass-ceramic-thumb.jpg",
+      "sourceUrlEn": "https://triada-llc.com/news/252-difference-in-glass-and-ceramic-products-for-technical-use.html",
+      "sourceUrlTr": "https://triada-llc.com/medya/237-teknik-kullanm-cin-cam-ve-seramik-urunlerde-farkllk.html",
+      "bodyEn": "TRIADA LLC maintains its distinctive position in the wholesale trade of glass and ceramic products for technical use. Offering solutions suitable for customers' needs with quality and durable products, the company continues to be the choice of customers in the industrial and technical sectors.",
+      "bodyTr": "TRIADA DIŞ TİCARET LİMİTED ŞİRKETİ, teknik kullanım için cam ve seramik ürünlerin toptan ticaretinde farklılık konumunu koruyor. Kaliteli ve dayanıklı ürünleriyle müşterilerin ihtiyaçlarına uygun çözümler sunan şirket, endüstriyel ve teknik sektörlerde müşterilerin tercihi olmaya devam ediyor."
+    }
+  ],
+  "notes": [
+    "The live home page shows the first three news cards only.",
+    "News pages contain full article text and one main image."
+  ]
+}

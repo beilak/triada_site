@@ -1,0 +1,22 @@
+[
+  {
+    "label": "HOME",
+    "href": "index.html"
+  },
+  {
+    "label": "ABOUT COMPANY",
+    "href": "about.html"
+  },
+  {
+    "label": "SERVICES",
+    "href": "services.html"
+  },
+  {
+    "label": "NEWS",
+    "href": "news.html"
+  },
+  {
+    "label": "CONTACT US",
+    "href": "contact.html"
+  }
+]

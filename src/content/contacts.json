@@ -1,0 +1,38 @@
+{
+  "phone": "+0 000 00 00",
+  "phoneHref": "tel:+000000000",
+  "email": "info@company-llc.example",
+  "emailHref": "mailto:info@company-llc.example",
+  "address": "Office 401, 17 Industrial Avenue, Business Center, Istanbul, Türkiye",
+  "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d192697.88850536282!2d28.8473727310983!3d41.005463242987815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa7040068086b%3A0xe1ccfe98bc01b0d0!2zxLBzdGFuYnVsLCBUw7xya2l5ZQ!5e0!3m2!1sen!2saz!4v1708290101422!5m2!1sen!2saz",
+  "form": {
+    "title": "Send a message",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "type": "email",
+        "required": true
+      },
+      {
+        "name": "subject",
+        "label": "Subject",
+        "type": "text",
+        "required": true
+      },
+      {
+        "name": "message",
+        "label": "Message",
+        "type": "textarea",
+        "required": false
+      }
+    ],
+    "submitLabel": "SEND"
+  }
+}

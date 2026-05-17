@@ -1,0 +1,61 @@
+{
+  "sourceUrl": "https://triada-llc.com/",
+  "logo": "../assets/images/footer_logo.png",
+  "background": "../assets/images/footer-pattern.jpg",
+  "columns": [
+    {
+      "id": "company-links",
+      "titleTr": "",
+      "titleEn": "",
+      "links": [
+        {
+          "labelTr": "ANA SAYFA",
+          "labelEn": "HOME",
+          "sourceUrlTr": "https://triada-llc.com/",
+          "sourceUrlEn": "https://triada-llc.com/en/"
+        },
+        {
+          "labelTr": "ŞİRKET HAKKINDA",
+          "labelEn": "ABOUT COMPANY",
+          "sourceUrlTr": "https://triada-llc.com/hakkimizda/202-about-company.html",
+          "sourceUrlEn": "https://triada-llc.com/about/240-about-company.html"
+        },
+        {
+          "labelTr": "HİZMETLERİMİZ",
+          "labelEn": "SERVICES",
+          "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/",
+          "sourceUrlEn": "https://triada-llc.com/services/"
+        }
+      ]
+    },
+    {
+      "id": "media-links",
+      "titleTr": "",
+      "titleEn": "",
+      "links": [
+        {
+          "labelTr": "MEDYA",
+          "labelEn": "NEWS",
+          "sourceUrlTr": "https://triada-llc.com/medya/",
+          "sourceUrlEn": "https://triada-llc.com/news/"
+        },
+        {
+          "labelTr": "İLETİŞİM",
+          "labelEn": "CONTACT US",
+          "sourceUrlTr": "https://triada-llc.com/contacts.html",
+          "sourceUrlEn": "https://triada-llc.com/contacts.html"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "titleTr": "İLETİŞİM",
+      "titleEn": "CONTACT",
+      "dataFile": "contacts.json"
+    }
+  ],
+  "credit": {
+    "label": "Web Studio Mif",
+    "sourceUrl": "http://mifstudio.az"
+  }
+}

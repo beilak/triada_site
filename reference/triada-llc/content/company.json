@@ -1,0 +1,24 @@
+{
+  "sourceSite": "https://triada-llc.com/",
+  "siteTitle": "TRIADA LLC",
+  "referenceCompany": {
+    "name": "TRIADA LLC",
+    "legalNameEn": "TRIADA LLC",
+    "legalNameTr": "TRIADA DIŞ TİCARET LİMİTED ŞİRKETİ",
+    "industry": "Wholesale trade of machinery and equipment parts and components",
+    "metaDescription": "Exports to global market mainly in From CIS countries. We are bulk manufacturer who engages in private labeling as well as branded sales."
+  },
+  "branding": {
+    "logo": "../assets/images/logo.png",
+    "footerLogo": "../assets/images/footer_logo.png",
+    "favicon": "../assets/images/favicon.ico",
+    "primaryColor": "#1573AD",
+    "accentColor": "#99CC00",
+    "accentDarkColor": "#3F5400",
+    "fontFamily": "Segoe UI, sans-serif"
+  },
+  "notes": [
+    "This file describes the reference company only. Replace these fields with the new company data before building the final site.",
+    "The source site contains inconsistent topbar contact data; footer and contact page use info@triada-llc.com."
+  ]
+}

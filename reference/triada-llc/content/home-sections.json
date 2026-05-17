@@ -1,0 +1,45 @@
+{
+  "sourceUrl": "https://triada-llc.com/",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "slider",
+      "title": "Hero slider",
+      "dataFile": "hero-slides.json",
+      "notes": "Four full-width image slides with large white uppercase titles."
+    },
+    {
+      "id": "about",
+      "type": "image-text",
+      "titleEn": "ABOUT COMPANY",
+      "titleTr": "ŞİRKET HAKKINDA",
+      "dataFiles": [
+        "about.en.md",
+        "about.tr.md"
+      ],
+      "image": "../assets/images/about-home.jpg",
+      "notes": "Home page uses a shortened about text; full text is available in the about markdown files."
+    },
+    {
+      "id": "services",
+      "type": "cards-grid",
+      "titleEn": "SERVICES",
+      "titleTr": "HİZMETLERİMİZ",
+      "dataFile": "services.json",
+      "notes": "Seven service image cards."
+    },
+    {
+      "id": "news",
+      "type": "cards-grid",
+      "titleEn": "NEWS BLOG",
+      "titleTr": "MEDYA",
+      "dataFile": "news.json",
+      "notes": "Three news cards shown on the home page."
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "dataFile": "footer.json"
+    }
+  ]
+}

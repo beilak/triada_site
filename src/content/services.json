@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mill-stones",
+    "title": "MILL STONES",
+    "image": "assets/images/service-mill-stones.jpg"
+  },
+  {
+    "id": "sandpaper",
+    "title": "SANDPAPER",
+    "image": "assets/images/service-sandpaper.jpg"
+  },
+  {
+    "id": "abrasion",
+    "title": "ABRASION",
+    "image": "assets/images/service-abrasion.jpg"
+  },
+  {
+    "id": "conveyor-belts",
+    "title": "CONVEYOR BELTS",
+    "image": "assets/images/service-conveyor-belts.jpg"
+  },
+  {
+    "id": "ceramics-technical-use",
+    "title": "CERAMICS FOR TECHNICAL USE",
+    "image": "assets/images/service-ceramics.jpg"
+  },
+  {
+    "id": "machines-equipment",
+    "title": "MACHINES AND EQUIPMENT",
+    "image": "assets/images/service-machines-equipment.jpg"
+  },
+  {
+    "id": "bearing",
+    "title": "BEARING",
+    "image": "assets/images/service-bearing.jpg"
+  }
+]

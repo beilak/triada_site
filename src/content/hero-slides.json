@@ -1,0 +1,22 @@
+[
+  {
+    "id": "machines-equipment",
+    "title": "MACHINES AND EQUIPMENT",
+    "image": "assets/images/hero-machines-equipment.jpg"
+  },
+  {
+    "id": "bearing",
+    "title": "BEARING",
+    "image": "assets/images/hero-bearing.jpg"
+  },
+  {
+    "id": "conveyor-belts",
+    "title": "CONVEYOR BELTS",
+    "image": "assets/images/hero-conveyor-belts.jpg"
+  },
+  {
+    "id": "glass-ceramic",
+    "title": "GLASS AND CERAMIC PRODUCTS FOR TECHNICAL USE",
+    "image": "assets/images/hero-glass-ceramic.jpg"
+  }
+]

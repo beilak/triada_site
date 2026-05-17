@@ -1,0 +1,79 @@
+{
+  "scannedAt": "2026-05-17",
+  "sourceSite": "https://triada-llc.com/",
+  "pages": [
+    {
+      "type": "home",
+      "language": "tr",
+      "url": "https://triada-llc.com/",
+      "rawHtml": "../raw/html/home.html"
+    },
+    {
+      "type": "home",
+      "language": "tr",
+      "url": "https://triada-llc.com/tr/",
+      "rawHtml": "../raw/html/tr-home.html"
+    },
+    {
+      "type": "home",
+      "language": "en",
+      "url": "https://triada-llc.com/en/",
+      "rawHtml": "../raw/html/en-home.html"
+    },
+    {
+      "type": "about",
+      "language": "tr",
+      "url": "https://triada-llc.com/hakkimizda/202-about-company.html",
+      "rawHtml": "../raw/html/hakkimizda-202.html"
+    },
+    {
+      "type": "about",
+      "language": "en",
+      "url": "https://triada-llc.com/about/240-about-company.html",
+      "rawHtml": "../raw/html/about-240.html"
+    },
+    {
+      "type": "services-index",
+      "language": "tr",
+      "url": "https://triada-llc.com/hizmetlerimiz/",
+      "rawHtml": "../raw/html/services-index-tr.html"
+    },
+    {
+      "type": "services-index",
+      "language": "en",
+      "url": "https://triada-llc.com/services/",
+      "rawHtml": "../raw/html/services-index-en.html"
+    },
+    {
+      "type": "news-index",
+      "language": "tr",
+      "url": "https://triada-llc.com/medya/",
+      "rawHtml": "../raw/html/media-index-tr.html"
+    },
+    {
+      "type": "news-index",
+      "language": "en",
+      "url": "https://triada-llc.com/news/",
+      "rawHtml": "../raw/html/news-index-en.html"
+    },
+    {
+      "type": "contact",
+      "language": "tr",
+      "url": "https://triada-llc.com/contacts.html",
+      "rawHtml": "../raw/html/contacts.html"
+    }
+  ],
+  "rssFeeds": [
+    "https://triada-llc.com/rss.xml",
+    "https://triada-llc.com/news/rss.xml",
+    "https://triada-llc.com/medya/rss.xml",
+    "https://triada-llc.com/services/rss.xml",
+    "https://triada-llc.com/hizmetlerimiz/rss.xml"
+  ],
+  "notFound": [
+    {
+      "url": "https://triada-llc.com/sitemap.xml",
+      "status": "404 from Apache"
+    }
+  ]
+}

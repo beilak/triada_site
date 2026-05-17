@@ -1,0 +1,77 @@
+{
+  "sourceUrls": {
+    "trIndex": "https://triada-llc.com/hizmetlerimiz/",
+    "enIndex": "https://triada-llc.com/services/",
+    "trRss": "https://triada-llc.com/hizmetlerimiz/rss.xml",
+    "enRss": "https://triada-llc.com/services/rss.xml"
+  },
+  "items": [
+    {
+      "id": "mill-stones",
+      "titleEn": "MILL STONES",
+      "titleTr": "DEĞİRMEN TAŞLARI",
+      "image": "../assets/images/service-mill-stones.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708287842_degirmen.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/247-mill-stones.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/232-dermen-talari.html"
+    },
+    {
+      "id": "sandpaper",
+      "titleEn": "SANDPAPER",
+      "titleTr": "ZIMPARA",
+      "image": "../assets/images/service-sandpaper.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708286757_zimpaa.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/246-sandpaper.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/231-zimpara.html"
+    },
+    {
+      "id": "abrasion",
+      "titleEn": "ABRASION",
+      "titleTr": "AŞINDIRMA",
+      "image": "../assets/images/service-abrasion.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708286569_asindirma.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/245-abrasion.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/230-aindirma.html"
+    },
+    {
+      "id": "conveyor-belts",
+      "titleEn": "CONVEYOR BELTS",
+      "titleTr": "KONVEYÖR BANTLARI",
+      "image": "../assets/images/service-conveyor-belts.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708286403_bant.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/244-conveyor-belts.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/229-konveyor-bantlari.html"
+    },
+    {
+      "id": "ceramics-technical-use",
+      "titleEn": "CERAMICS FOR TECHNICAL USE",
+      "titleTr": "TEKNİK KULLANIM İÇİN SERAMİK",
+      "image": "../assets/images/service-ceramics.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708286275_cam.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/243-ceramics-for-technical-use.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/228-cam-ve-seramk.html"
+    },
+    {
+      "id": "machines-equipment",
+      "titleEn": "MACHINES AND EQUIPMENT",
+      "titleTr": "MAKİNE VE EKİPMANLAR",
+      "image": "../assets/images/service-machines-equipment.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708285660_makine.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/242-machines-and-equipment.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/227-makne-ve-ekpmanlar.html"
+    },
+    {
+      "id": "bearing",
+      "titleEn": "BEARING",
+      "titleTr": "RULMAN",
+      "image": "../assets/images/service-bearing.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708285462_1628023230_meat.jpg",
+      "sourceUrlEn": "https://triada-llc.com/services/241-bearing.html",
+      "sourceUrlTr": "https://triada-llc.com/hizmetlerimiz/226-rulman.html"
+    }
+  ],
+  "notes": [
+    "Service detail pages contain only title, date, image, category and view count; no separate description was found.",
+    "The home page shows these as image cards under HİZMETLERİMİZ / SERVICES."
+  ]
+}

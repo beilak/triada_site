@@ -1,0 +1,40 @@
+{
+  "sourceUrls": [
+    "https://triada-llc.com/",
+    "https://triada-llc.com/en/"
+  ],
+  "slides": [
+    {
+      "id": "machines-equipment",
+      "titleEn": "MACHINES AND EQUIPMENT",
+      "titleTr": "MAKİNE VE EKİPMANLAR",
+      "image": "../assets/images/hero-machines-equipment.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708289361_mak.jpg"
+    },
+    {
+      "id": "bearing",
+      "titleEn": "BEARING",
+      "titleTr": "RULMAN",
+      "image": "../assets/images/hero-bearing.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708288713_rulman_sl.jpg"
+    },
+    {
+      "id": "conveyor-belts",
+      "titleEn": "CONVEYOR BELTS",
+      "titleTr": "KONVEYÖR BANTLARI",
+      "image": "../assets/images/hero-conveyor-belts.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708289276_konf.jpg"
+    },
+    {
+      "id": "glass-ceramic-technical-use",
+      "titleEn": "GLASS AND CERAMIC PRODUCTS FOR TECHNICAL USE",
+      "titleTr": "TEKNİK KULLANIM İÇİN CAM VE SERAMİK ÜRÜNLER",
+      "image": "../assets/images/hero-glass-ceramic.jpg",
+      "sourceImage": "https://triada-llc.com/uploads/posts/2024-02/1708289020_seram_.jpg"
+    }
+  ],
+  "notes": [
+    "The reference hero uses Revolution Slider with Ken Burns animation.",
+    "CTA buttons exist in comments but are disabled on the live page."
+  ]
+}

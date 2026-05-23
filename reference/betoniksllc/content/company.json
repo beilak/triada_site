@@ -1,0 +1,17 @@
+{
+  "sourceSite": "https://betoniksllc.com/",
+  "siteTitle": "BETONIKS LLC - İnşaat Elektronik Sanayi ve Ticaret Limited Şirketi",
+  "referenceCompany": {
+    "name": "BETONIKS LLC",
+    "legalName": "Betoniks Construction Electronics Industry and Trade Limited Company",
+    "positioning": "Integrated construction, electronics, industry and general trade company",
+    "metaDescription": "BETONIKS LLC - İnşaat Elektronik Sanayi ve Ticaret Limited Şirketi",
+    "metaKeywords": "We offer more than just quality products and exceedingly good service!"
+  },
+  "branding": {
+    "logo": "../assets/images/logo.png",
+    "primaryBlue": "#3993d0",
+    "accentGold": "#d49f00",
+    "fontFamily": "Segoe UI, sans-serif"
+  }
+}

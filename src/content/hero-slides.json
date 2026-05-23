@@ -1,22 +1,22 @@
 [
   {
-    "id": "machines-equipment",
-    "title": "MACHINES AND EQUIPMENT",
+    "id": "integrated-trade",
+    "title": "INTEGRATED CONSTRUCTION AND INDUSTRIAL TRADE",
+    "image": "assets/images/betoniksllc/hero-trade-company.jpg"
+  },
+  {
+    "id": "logistics",
+    "title": "LOGISTICS AND SUPPLY COORDINATION",
+    "image": "assets/images/betoniksllc/hero-logistics.jpg"
+  },
+  {
+    "id": "machinery-equipment",
+    "title": "MACHINERY AND EQUIPMENT",
     "image": "assets/images/hero-machines-equipment.jpg"
   },
   {
-    "id": "bearing",
-    "title": "BEARING",
-    "image": "assets/images/hero-bearing.jpg"
-  },
-  {
     "id": "conveyor-belts",
-    "title": "CONVEYOR BELTS",
+    "title": "CONVEYOR BELTS AND INDUSTRIAL PARTS",
     "image": "assets/images/hero-conveyor-belts.jpg"
-  },
-  {
-    "id": "glass-ceramic",
-    "title": "GLASS AND CERAMIC PRODUCTS FOR TECHNICAL USE",
-    "image": "assets/images/hero-glass-ceramic.jpg"
   }
 ]

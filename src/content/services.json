@@ -1,37 +1,62 @@
 [
   {
-    "id": "mill-stones",
-    "title": "MILL STONES",
-    "image": "assets/images/service-mill-stones.jpg"
+    "id": "construction-contracting",
+    "title": "CONSTRUCTION AND CONTRACTING",
+    "image": "assets/images/betoniksllc/service-construction.jpg",
+    "summary": "Turnkey support for public and private construction projects, infrastructure, superstructure, restoration, landscaping and technical consultancy."
   },
   {
-    "id": "sandpaper",
-    "title": "SANDPAPER",
-    "image": "assets/images/service-sandpaper.jpg"
+    "id": "hardware-industrial-equipment",
+    "title": "HARDWARE AND INDUSTRIAL EQUIPMENT",
+    "image": "assets/images/betoniksllc/service-equipment.jpg",
+    "summary": "Supply, marketing, import and export of hardware, connection elements, cutting tools, measuring equipment and heavy industrial machinery."
   },
   {
-    "id": "abrasion",
-    "title": "ABRASION",
-    "image": "assets/images/service-abrasion.jpg"
+    "id": "electrical-electronics",
+    "title": "ELECTRICAL AND ELECTRONICS",
+    "image": "assets/images/betoniksllc/service-electrical.jpg",
+    "summary": "Procurement, trade and integration of electrical systems, technological equipment, automation and technical infrastructure."
   },
   {
-    "id": "conveyor-belts",
-    "title": "CONVEYOR BELTS",
-    "image": "assets/images/service-conveyor-belts.jpg"
+    "id": "transportation-logistics",
+    "title": "TRANSPORTATION AND LOGISTICS",
+    "image": "assets/images/betoniksllc/service-logistics.jpg",
+    "summary": "Professional coordination of shipping organizations for products, equipment and commercial goods with a focus on timely delivery."
   },
   {
-    "id": "ceramics-technical-use",
-    "title": "CERAMICS FOR TECHNICAL USE",
-    "image": "assets/images/service-ceramics.jpg"
+    "id": "industrial-raw-materials",
+    "title": "INDUSTRIAL RAW MATERIALS",
+    "image": "assets/images/betoniksllc/service-forest.jpg",
+    "summary": "Reliable sourcing of industrial raw materials and semi-finished products from domestic and international markets."
   },
   {
     "id": "machines-equipment",
     "title": "MACHINES AND EQUIPMENT",
-    "image": "assets/images/service-machines-equipment.jpg"
+    "image": "assets/images/service-machines-equipment.jpg",
+    "summary": "Wholesale supply of machinery, equipment and related parts needed by industrial and construction projects."
   },
   {
-    "id": "bearing",
-    "title": "BEARING",
-    "image": "assets/images/service-bearing.jpg"
+    "id": "conveyor-belts",
+    "title": "CONVEYOR BELTS",
+    "image": "assets/images/service-conveyor-belts.jpg",
+    "summary": "Reliable conveyor belt solutions and components for industrial systems and equipment continuity."
+  },
+  {
+    "id": "bearings",
+    "title": "BEARINGS",
+    "image": "assets/images/service-bearing.jpg",
+    "summary": "Durable bearings and mechanical components for machinery, production lines and industrial maintenance."
+  },
+  {
+    "id": "technical-ceramics",
+    "title": "TECHNICAL CERAMICS",
+    "image": "assets/images/service-ceramics.jpg",
+    "summary": "Glass and ceramic products for technical use, selected for quality, durability and sector-specific requirements."
+  },
+  {
+    "id": "abrasives",
+    "title": "ABRASIVES AND SANDPAPER",
+    "image": "assets/images/service-sandpaper.jpg",
+    "summary": "Sanding, abrasion and finishing products for industrial, construction and equipment-related applications."
   }
 ]

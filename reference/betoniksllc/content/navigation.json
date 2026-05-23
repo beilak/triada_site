@@ -1,0 +1,32 @@
+{
+  "sourceUrl": "https://betoniksllc.com/",
+  "items": [
+    {
+      "label": "HOME PAGE",
+      "url": "https://betoniksllc.com/"
+    },
+    {
+      "label": "ABOUT COMPANY",
+      "url": "https://betoniksllc.com/about_company/108-about-company.html"
+    },
+    {
+      "label": "OUR SERVICES",
+      "url": "#",
+      "children": [
+        "Construction",
+        "Hardware and Industrial Equipment",
+        "Electrical and Electronics",
+        "Forest Products",
+        "Transportation & Logistics"
+      ]
+    },
+    {
+      "label": "NEWS & MULTIMEDIA",
+      "url": "https://betoniksllc.com/"
+    },
+    {
+      "label": "CONTACT US",
+      "url": "https://betoniksllc.com/contacts"
+    }
+  ]
+}

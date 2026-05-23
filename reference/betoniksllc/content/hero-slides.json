@@ -1,0 +1,17 @@
+{
+  "sourceUrl": "https://betoniksllc.com/",
+  "slides": [
+    {
+      "id": "trade-company",
+      "title": "BETONIKS TRADE LIMITED COMPANY",
+      "image": "../assets/images/hero-trade-company.jpg",
+      "sourceImage": "https://betoniksllc.com/uploads/posts/2026-05/1779216587_1663542028_1599683833_1544867171_slayder.jpg"
+    },
+    {
+      "id": "logistics",
+      "title": "LOGISTICS",
+      "image": "../assets/images/hero-logistics.jpg",
+      "sourceImage": "https://betoniksllc.com/uploads/posts/2022-09/1663541975_1604592425_1599683833_1544867171_slayder.jpg"
+    }
+  ]
+}

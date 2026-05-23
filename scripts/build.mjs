@@ -176,6 +176,7 @@ function renderServicesGrid(services, limit = services.length) {
       .map((service) => `<article class="service-card">
         <img src="${service.image}" alt="${escapeHtml(service.title)}">
         <h3>${escapeHtml(service.title)}</h3>
+        ${service.summary ? `<p>${escapeHtml(service.summary)}</p>` : ""}
       </article>`)
       .join("")}
   </div>`;
@@ -209,7 +210,7 @@ function renderNewsGrid(news, { full = false } = {}) {
 function renderNewsSection(news, { showButton = true, full = false } = {}) {
   return `<section class="section">
     <div class="container">
-      ${sectionHeading("LATEST", "NEWS BLOG")}
+      ${sectionHeading("MARKET", "INDUSTRY FOCUS")}
       ${renderNewsGrid(news, { full })}
       ${showButton ? '<div class="section-actions"><a class="button" href="news.html">ALL NEWS</a></div>' : ""}
     </div>
@@ -221,7 +222,7 @@ function renderContactCta(contacts) {
     <div class="container contact-band-inner">
       <div>
         <span>CONTACT US</span>
-        <h2>Ready to discuss machinery and equipment supply?</h2>
+        <h2>Ready to discuss construction, equipment and logistics supply?</h2>
       </div>
       <div class="contact-band-actions">
         <a href="${contacts.phoneHref}">${escapeHtml(contacts.phone)}</a>
@@ -240,15 +241,6 @@ function renderPageIntro(title) {
 }
 
 function renderContactPage(contacts) {
-  const fields = contacts.form.fields
-    .map((field) => {
-      if (field.type === "textarea") {
-        return `<label>${escapeHtml(field.label)}<textarea name="${field.name}" rows="6"${field.required ? " required" : ""}></textarea></label>`;
-      }
-      return `<label>${escapeHtml(field.label)}<input name="${field.name}" type="${field.type}"${field.required ? " required" : ""}></label>`;
-    })
-    .join("");
-
   return `<section class="section">
     <div class="container contact-grid">
       <div class="contact-info">
@@ -258,11 +250,6 @@ function renderContactPage(contacts) {
         <p><strong>Email:</strong> <a href="${contacts.emailHref}">${escapeHtml(contacts.email)}</a></p>
         <iframe title="Map" src="${contacts.mapEmbedUrl}" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
-      <form class="contact-form" action="#" method="post">
-        <h2>${escapeHtml(contacts.form.title)}</h2>
-        ${fields}
-        <button class="button" type="submit">${escapeHtml(contacts.form.submitLabel)}</button>
-      </form>
     </div>
   </section>`;
 }
@@ -346,7 +333,7 @@ export async function buildSite() {
       ...base,
       activeHref: "news.html",
       title: "NEWS",
-      body: `${renderPageIntro("NEWS BLOG")}${renderNewsSection(news, { showButton: false, full: true })}`
+      body: `${renderPageIntro("INDUSTRY FOCUS")}${renderNewsSection(news, { showButton: false, full: true })}`
     })
   );
 

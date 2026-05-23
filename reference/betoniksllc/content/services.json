@@ -1,0 +1,40 @@
+{
+  "sourceUrl": "https://betoniksllc.com/",
+  "items": [
+    {
+      "id": "construction-contracting",
+      "title": "Construction and Contracting Services",
+      "icon": "../assets/images/service-construction-icon.png",
+      "image": "../assets/images/service-construction.jpg",
+      "sourceUrl": "https://betoniksllc.com/services/104-construction-and-contracting-services.html"
+    },
+    {
+      "id": "hardware-industrial-equipment",
+      "title": "Hardware and Industrial Equipment",
+      "icon": "../assets/images/service-equipment-icon.png",
+      "image": "../assets/images/service-equipment.jpg",
+      "sourceUrl": "https://betoniksllc.com/services/103-hardware-and-industrial-equipment.html"
+    },
+    {
+      "id": "electrical-electronics",
+      "title": "Electrical and Electronics",
+      "icon": "../assets/images/service-electrical-icon.png",
+      "image": "../assets/images/service-electrical.jpg",
+      "sourceUrl": "https://betoniksllc.com/services/102-electrical-and-electronics.html"
+    },
+    {
+      "id": "forest-products",
+      "title": "Forest Products",
+      "icon": "../assets/images/service-forest-icon.png",
+      "image": "../assets/images/service-forest.jpg",
+      "sourceUrl": "https://betoniksllc.com/services/101-forest-products.html"
+    },
+    {
+      "id": "transportation-logistics",
+      "title": "Transportation & Logistics",
+      "icon": "../assets/images/service-logistics-icon.png",
+      "image": "../assets/images/service-logistics.jpg",
+      "sourceUrl": "https://betoniksllc.com/services/100-transportation-logistics.html"
+    }
+  ]
+}

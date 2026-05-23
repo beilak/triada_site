@@ -1,26 +1,26 @@
 [
   {
+    "id": "single-source-supply",
+    "date": "2026-05-21",
+    "title": "One source for materials and technical support",
+    "image": "assets/images/betoniksllc/map-global.png",
+    "thumb": "assets/images/betoniksllc/map-global-thumb.png",
+    "body": "By keeping customer satisfaction at the highest level, we make it our duty to fulfill our commitments on time and flawlessly. By integrating our diverse operational areas, we have the capacity to provide all the necessary materials and technical support for projects from a single source."
+  },
+  {
+    "id": "construction-industry-trade",
+    "date": "2026-05-21",
+    "title": "Integrated construction, electronics and industry trade",
+    "image": "assets/images/betoniksllc/about-company-generic.jpg",
+    "thumb": "assets/images/betoniksllc/about-company-generic.jpg",
+    "body": "Our company provides integrated solutions in the fields of construction, electronics and industry with a broad vision and expert staff. Whether it is large-scale infrastructure projects or technical equipment and material supply, we strive for excellence in every project."
+  },
+  {
     "id": "conveyor-belts-bearings",
     "date": "2024-02-20",
-    "title": "We are innovators in the Field of Conveyor Belts and Bearings",
+    "title": "Industrial parts for conveyor belts and bearings",
     "image": "assets/images/news-conveyor-belts-bearings.jpg",
     "thumb": "assets/images/news-conveyor-belts-bearings-thumb.jpg",
-    "body": "НАЗВАНИЕ КОМПАНИИ LLC is starting a new era in the field of conveyor belts and bearings in the wholesale trade of parts and components related to machinery and equipment. The company, which stands out in the sector with its innovative approaches and quality products, offers more reliable and durable solutions to its customers. Robust and long-lasting belts for conveyor systems and bearings, which are essential parts of machines, now take their place in the sector with the assurance of our Company."
-  },
-  {
-    "id": "millstone-emery-high-demands",
-    "date": "2024-02-20",
-    "title": "Our company, specialized in millstone and emery products, is ready for high demands.",
-    "image": "assets/images/news-millstone-emery.jpg",
-    "thumb": "assets/images/news-millstone-emery-thumb.jpg",
-    "body": "Our company specializes in wholesale trade of critical parts such as millstones and emery, offering a wide range of products to meet industrial needs. Our company, which draws attention with its quality products, aims to provide reliable solutions to its customers by keeping customer satisfaction at the forefront."
-  },
-  {
-    "id": "glass-ceramic-technical-use",
-    "date": "2024-02-20",
-    "title": "Difference in Glass and Ceramic Products for Technical Use",
-    "image": "assets/images/news-glass-ceramic.jpg",
-    "thumb": "assets/images/news-glass-ceramic-thumb.jpg",
-    "body": "НАЗВАНИЕ КОМПАНИИ LLC maintains its distinctive position in the wholesale trade of glass and ceramic products for technical use. Offering solutions suitable for customers' needs with quality and durable products, the company continues to be the choice of customers in the industrial and technical sectors."
+    "body": "НАЗВАНИЕ КОМПАНИИ LLC supports industrial customers with conveyor belts, bearings and machinery-related components. Durable products and reliable sourcing help customers maintain business continuity and equipment efficiency."
   }
 ]

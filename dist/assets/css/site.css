@@ -295,7 +295,7 @@ a {
 }
 
 .service-card {
-  min-height: 310px;
+  min-height: 410px;
   overflow: hidden;
   background: #fff;
   box-shadow: 0 12px 28px rgba(23, 35, 47, 0.1);
@@ -310,16 +310,25 @@ a {
 
 .service-card h3 {
   display: grid;
-  min-height: 72px;
+  min-height: 68px;
   place-items: center;
   margin: 0;
-  padding: 14px 16px;
+  padding: 16px 18px 8px;
   color: #222;
   font-size: 17px;
   font-weight: 700;
   line-height: 1.25;
   text-align: center;
   text-transform: uppercase;
+}
+
+.service-card p {
+  margin: 0;
+  padding: 0 22px 24px;
+  color: var(--color-muted);
+  font-size: 14px;
+  line-height: 1.55;
+  text-align: center;
 }
 
 .news-grid {
@@ -410,8 +419,7 @@ a {
 
 .contact-grid {
   display: grid;
-  grid-template-columns: 1.05fr 0.95fr;
-  gap: 48px;
+  grid-template-columns: minmax(0, 1fr);
   align-items: start;
 }
 
@@ -429,41 +437,6 @@ a {
   height: 360px;
   margin-top: 18px;
   border: 0;
-}
-
-.contact-form {
-  padding: 32px;
-  border-top: 5px solid var(--color-accent);
-  background: var(--color-soft);
-}
-
-.contact-form h2 {
-  margin: 0 0 22px;
-  font-size: 26px;
-}
-
-.contact-form label {
-  display: block;
-  margin-bottom: 16px;
-  color: var(--color-ink);
-  font-weight: 700;
-}
-
-.contact-form input,
-.contact-form textarea {
-  display: block;
-  width: 100%;
-  margin-top: 8px;
-  border: 1px solid #d8e1e7;
-  border-radius: 0;
-  padding: 13px 14px;
-  color: var(--color-ink);
-  font: inherit;
-  background: #fff;
-}
-
-.contact-form textarea {
-  resize: vertical;
 }
 
 .site-footer {
@@ -610,7 +583,4 @@ a {
     height: 260px;
   }
 
-  .contact-form {
-    padding: 24px;
-  }
 }
